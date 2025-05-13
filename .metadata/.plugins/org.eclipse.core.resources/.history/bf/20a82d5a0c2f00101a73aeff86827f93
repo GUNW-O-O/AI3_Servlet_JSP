@@ -1,0 +1,12 @@
+<%@page import="java.util.List"%>
+<%@page import="org.apache.commons.fileupload2.jakarta.*"%>
+<%@page import="org.apache.commons.fileupload2.core.*"%>
+<%@page import="org.apache.commons.fileupload.servlet.ServletFileUpload"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	JakartaServletFileUpload upload = new JakartaServletFileUpload();
+	JakartaServletRequestContext context = new JakartaServletRequestContext(request); 
+	List<FileItem> items = upload.parseRequest(context);
+
+%>
