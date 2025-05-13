@@ -8,6 +8,7 @@
 </head>
 <body>
 	<%
+		//asd
 		request.setCharacterEncoding("UTF-8");		
 
 		String id = request.getParameter("id");
