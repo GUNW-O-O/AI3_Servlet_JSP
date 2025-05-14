@@ -2,7 +2,9 @@
 <modules>
   <module moduleId="org.eclipse.jst.jee.server:Test" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:01_스크립트태그" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:14_EL" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:06_파일업로드" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Bootstrap" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:04_내장객체" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:02_디렉티브태그" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:08_예외처리" serverId="Tomcat v10.1 Server at localhost"/>
@@ -14,4 +16,5 @@
   <module moduleId="org.eclipse.jst.jee.server:03_액션태그" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:11_쿠키" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:10_세션" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:레이아웃" serverId="Tomcat v10.1 Server at localhost"/>
 </modules>
