@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.net.URLEncoder"/>
     <fullyQualifiedTypeName name="jakarta.servlet.ServletOutputStream"/>
     <fullyQualifiedTypeName name="org.eclipse.jdt.internal.compiler.ast.TypeReference"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.core.type.TypeReference"/>
@@ -42,7 +41,6 @@
     <fullyQualifiedTypeName name="board.Service.UserService"/>
     <fullyQualifiedTypeName name="board.Service.UserServiceImpl"/>
     <fullyQualifiedTypeName name="board.DTO.Users"/>
-    <fullyQualifiedTypeName name="java.util.UUID"/>
     <fullyQualifiedTypeName name="org.mindrot.jbcrypt.BCrypt"/>
     <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
@@ -56,8 +54,10 @@
     <fullyQualifiedTypeName name="board.Service.BoardServiceImpl"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
-    <fullyQualifiedTypeName name="java.util.Map"/>
-    <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="lombok.Builder"/>
     <fullyQualifiedTypeName name="board.DTO.Board"/>
+    <fullyQualifiedTypeName name="com.alohaclass.jdbc.annotation.Column"/>
+    <fullyQualifiedTypeName name="java.util.UUID"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>
