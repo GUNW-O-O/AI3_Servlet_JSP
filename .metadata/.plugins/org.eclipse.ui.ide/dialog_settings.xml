@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="NewWizardAction">
-		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.fx.ide.jdt.ui.javafx"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.fx.ide"/>
+			<item value="org.eclipse.wst.web.ui"/>
 		</list>
 		<section name="NewWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="0"/>
@@ -19,11 +20,14 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\tj-bu-706-12\git\alcl-jdbc\alcl-jdbc"/>
+			<item value="C:\Users\tj-bu-706-12\git\AI3_MINI1_TEAM3"/>
+			<item value="C:\KGW\GITHUB\AI3_MINI1_TEAM3"/>
 			<item value="C:\Users\tj-bu-706-12\git\javaFX_Board"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="43"/>
-			<item key="DIALOG_Y_ORIGIN" value="104"/>
+			<item key="DIALOG_X_ORIGIN" value="225"/>
+			<item key="DIALOG_Y_ORIGIN" value="186"/>
 			<item key="DIALOG_WIDTH" value="888"/>
 			<item key="DIALOG_HEIGHT" value="629"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -43,30 +47,30 @@
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="org.eclipse.text.quicksearch.internal.ui.QuickSearchDialog.DIALOG_SETTINGS">
-		<item key="LAST_QUERY" value="name=&quot;userna"/>
+		<item key="LAST_QUERY" value="trainer_id"/>
 		<item key="PATH_FILTER" value=""/>
 		<item key="CASE_SENSITIVE" value="true"/>
 		<item key="KEEP_OPEN" value="false"/>
 		<list key="COLUMN_WIDTHS">
 			<item value="40"/>
 			<item value="400"/>
-			<item value="120"/>
+			<item value="431"/>
 		</list>
 		<list key="SASH_WEIGHTS">
-			<item value="714"/>
-			<item value="285"/>
+			<item value="371"/>
+			<item value="628"/>
 		</list>
 		<section name="DialogBoundsSettings">
-			<item key="DIALOG_HEIGHT" value="500"/>
-			<item key="DIALOG_WIDTH" value="600"/>
-			<item key="DIALOG_X_ORIGIN" value="187"/>
+			<item key="DIALOG_HEIGHT" value="797"/>
+			<item key="DIALOG_WIDTH" value="911"/>
+			<item key="DIALOG_X_ORIGIN" value="56"/>
 			<item key="DIALOG_Y_ORIGIN" value="190"/>
 			<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 		</section>
 	</section>
 	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
 		<item key="ShowStatusLine" value="true"/>
-		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/Servlet/src/main/java/test/login.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/Servlet/src/main/java/test/login.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/webapp/WEB-INF/views/layout/common.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/sales/dto/Sales.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/admin/dto/Trainer.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/admin/service/TrainerService.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/admin/service/TrainerServiceImpl.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/sales/service/SalesService.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/admin/servlet/TrainerServlet.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/sales/servlet/SalesServlet.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/webapp/WEB-INF/views/admin/sales/list.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/webapp/static/img/logo.png&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/webapp/static/js/member.js&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/webapp/WEB-INF/views/layout/script.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/webapp/WEB-INF/views/admin/sales/sales.jsp&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/MiniProject1/src/main/java/com/hhg/common/servlet/HomeServlet.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
 		<item key="ShowDerived" value="false"/>
 		<item key="FilterByLocation" value="false"/>
 		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>

@@ -142,7 +142,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\KGW\Java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\KGW\Java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\레이아웃" path="/레이아웃" reloadable="true" source="org.eclipse.jst.jee.server:레이아웃"/><Context docBase="C:\KGW\Java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Bootstrap" path="/Bootstrap" reloadable="true" source="org.eclipse.jst.jee.server:Bootstrap"/><Context docBase="C:\KGW\Java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Board" path="/Board" reloadable="true" source="org.eclipse.jst.jee.server:Board"/><Context docBase="C:\KGW\Java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\alcl-jdbc" path="/alcl-jdbc" reloadable="true" source="org.eclipse.jst.jee.server:alcl-jdbc"/></Host>
+      <Context docBase="C:\KGW\Java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\KGW\Java\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Mini1" path="/Mini1" reloadable="true" source="org.eclipse.jst.jee.server:Mini1"/></Host>
     </Engine>
   </Service>
 </Server>

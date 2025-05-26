@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
-	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\tj-bu-706-12\git\AI3_JSP\.git"/>
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\KGW\GITHUB\AI3_MINI1_TEAM3\.git"/>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/ruff1376/AI3_MINI1_TEAM3.git"/>
+		<item value="https://github.com/ALOHA-CLASS/alcl-jdbc.git"/>
 		<item value="https://github.com/ALOHA-CLASS/AI3_JSP.git"/>
 		<item value="https://github.com/GUNW-O-O/tempRepo.git"/>
 		<item value="https://github.com/hoodie-kr/javaFX_Board.git"/>
@@ -14,9 +16,11 @@
 		<item value="github.com"/>
 	</list>
 	<list key="CommitDialog.authorValues">
+		<item value="GUNW-O-O &lt;rhrjsdn12@naver.com&gt;"/>
 		<item value="tj-bu-706-12 &lt;tj-bu-706-12@DESKTOP-LTSGM2H&gt;"/>
 	</list>
 	<list key="CommitDialog.committerValues">
+		<item value="GUNW-O-O &lt;rhrjsdn12@naver.com&gt;"/>
 		<item value="tj-bu-706-12 &lt;tj-bu-706-12@DESKTOP-LTSGM2H&gt;"/>
 	</list>
 	<section name="GitImportWizard">
@@ -48,6 +52,18 @@
 		<list key="C:\KGW\GITHUB\tempRepo\.git">
 			<item value="empty"/>
 		</list>
+		<list key="C:\KGW\GITHUB\AI3_MINI1_TEAM3\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\tj-bu-706-12\git\AI3_MINI1_TEAM3\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\KGW\Java\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\KGW\GITHUB\AI3_MINI1_TEAM3\AI3_MINI1_TEAM3\.git">
+			<item value="empty"/>
+		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="154"/>
@@ -63,8 +79,36 @@
 	<section name="SmartImportGitWizard.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="225"/>
 		<item key="DIALOG_Y_ORIGIN" value="186"/>
-		<item key="DIALOG_WIDTH" value="622"/>
+		<item key="DIALOG_WIDTH" value="646"/>
 		<item key="DIALOG_HEIGHT" value="550"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="171"/>
+		<item key="DIALOG_Y_ORIGIN" value="326"/>
+		<item key="DIALOG_WIDTH" value="632"/>
+		<item key="DIALOG_HEIGHT" value="296"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.CheckoutDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="218"/>
+		<item key="DIALOG_Y_ORIGIN" value="201"/>
+		<item key="DIALOG_WIDTH" value="538"/>
+		<item key="DIALOG_HEIGHT" value="484"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="218"/>
+		<item key="DIALOG_Y_ORIGIN" value="75"/>
+		<item key="DIALOG_WIDTH" value="538"/>
+		<item key="DIALOG_HEIGHT" value="672"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.merge.MergeResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="152"/>
+		<item key="DIALOG_Y_ORIGIN" value="391"/>
+		<item key="DIALOG_WIDTH" value="671"/>
+		<item key="DIALOG_HEIGHT" value="336"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>
